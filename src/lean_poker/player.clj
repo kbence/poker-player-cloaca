@@ -4,7 +4,7 @@
 
 (defn bet-request
   [game-state]
-  (+ 100 (* 900 (Math.random))))
+  1000)
 
 (defn showdown
   [game-state]
