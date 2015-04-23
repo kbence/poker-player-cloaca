@@ -1,6 +1,6 @@
 (ns lean-poker.player)
 
-(def version "Clojure-y folding player")
+(def version "Cloaca - the hidden gem")
 
 (defn bet-request
   [game-state]
