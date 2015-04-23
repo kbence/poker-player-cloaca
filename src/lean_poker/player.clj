@@ -4,7 +4,7 @@
 
 (defn bet-request
   [game-state]
-  0)
+  1000)
 
 (defn showdown
   [game-state]
